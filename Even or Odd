@@ -1,0 +1,12 @@
+print("*** Check the given number is Even Or Odd ***")
+
+number = input("Enter the number: ")
+
+if number.isdigit():
+    number = int(number)
+    if number % 2 == 0:
+        print(f"The given number {number} is Even. ")
+    else:
+        print(f"The given number {number} is Odd. ")
+else:
+    print("Invalid character! Please give me a number")
