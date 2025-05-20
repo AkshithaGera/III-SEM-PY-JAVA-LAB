@@ -1,0 +1,15 @@
+import random
+
+print("***** Welcome to Dice Roller *****")
+
+while True:
+    input("Please Enter to roll the dice...")
+    dice=random.randint(1, 6)
+    print(f"You Rolled : {dice} ")
+    
+    
+    again = input("If you want Roll Again : (yes/no) ")
+    if again.lower() != 'yes':
+        print("Thanks for Playing this Dice Roller!")
+        break
+        
