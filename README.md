@@ -13,3 +13,19 @@ This is a simple Dice Game implemented in Python. The game simulates rolling two
 1. Clone the repository:
    ```bash
    git clone https://github.com/AkshithaGera/III-SEM-PYTHON-LAB.git
+## Sample Output
+
+***** Welcome to Dice Roller *****
+Press Enter to roll the dice...
+
+You Rolled: 4
+Do you want to roll again? (yes/no): yes
+Press Enter to roll the dice...
+
+You Rolled: 1
+Do you want to roll again? (yes/no): yes
+Press Enter to roll the dice...
+
+You Rolled: 6
+Do you want to roll again? (yes/no): no
+Thanks for playing this Dice Roller!
