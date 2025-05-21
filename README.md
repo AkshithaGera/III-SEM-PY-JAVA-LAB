@@ -12,3 +12,10 @@ This is a simple calculator program implemented in Python that performs basic ar
 1. Clone the repository:
    ```bash
    git clone https://github.com/AkshithaGera/III-SEM-PYTHON-LAB.git
+## Sample output
+
+***** Simple Calculator *****
+Enter the first value : 10
+Enter the second value : 5
+Choose the operator (+, -, *, /): *
+The Result 10.0 * 5.0 is : 50.0
