@@ -14,5 +14,6 @@ This Python program checks whether a given number is even or odd. It takes user 
    git clone https://github.com/AkshithaGera/III-SEM-PYTHON-LAB.git
 ## Sample Output
 
-Enter a number: 7
-7 is Odd
+*** Check the given number is Even Or Odd ***
+Enter the number: 24
+The given number 24 is Even.
