@@ -1,4 +1,4 @@
-# Dice Game
+# Dice Roller
 
 ## Project Description
 This is a simple Dice Game implemented in Python. The game simulates rolling two dice and calculates the outcome based on the sum of the dice.
